@@ -1,0 +1,8 @@
+{
+  "breadcrumb": "src/components/breadcrumb/index.js",
+  "menu": "src/components/menu/index.js",
+  "deleteButton": "src/components/hdbutton/index.js",
+  "addHdButton": "src/components/hdbutton/index.js",
+  "editButton": "src/components/hdbutton/index.js",
+  "tool": "src/components/tool/index.js"
+}
